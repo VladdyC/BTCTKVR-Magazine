@@ -18,4 +18,4 @@ Optional: make modifications to the content;
 
 For the already-compiled PDF, check out this file. However, keep in mind that some print shops will ask you to send the pages and the covers separately because they use different types of paper and must bind these parts together. So it's always better to download the PDF for the covers and then compile the pages JPGs into a large PDF (as described above).
 
-PDF with pages + covers: https://github.com/VladdyC/BTCTKVR-Magazine
+PDF with pages + covers: https://bitcoin-takeover.com/btctkvr-magazine-free-to-download-free-to-print-free-to-sell/
